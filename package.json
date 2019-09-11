@@ -27,6 +27,7 @@
     "cli"
   ],
   "dependencies": {
+    "destroy": "^1.0.4",
     "feedparser": "^2.1.0",
     "got": "^6.7.1",
     "meow": "^3.7.0",
